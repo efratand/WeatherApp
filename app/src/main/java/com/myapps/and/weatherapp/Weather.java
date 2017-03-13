@@ -7,7 +7,6 @@ package com.myapps.and.weatherapp;
 
 
 public class Weather {
-
     String main;
     String description;
     String icon;
